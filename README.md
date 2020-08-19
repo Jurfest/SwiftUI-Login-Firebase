@@ -1,7 +1,7 @@
 # SwiftUI-Login-Firebase
 My result after following the tutorial by Kavsoft, available on youtube: https://www.youtube.com/watch?v=GiCTgsH0dtk
 
-To install firebase with Cocoapods, please open terminal and navigate to the project file. Then,
+To install firebase with Cocoapods, please open terminal and navigate to the project file. Then, enter the following command:
 
 ```bash
 $ pod install
