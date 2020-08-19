@@ -1,0 +1,6 @@
+framework module Pods_SwiftUILoginFireBase {
+  umbrella header "Pods-SwiftUILoginFireBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
